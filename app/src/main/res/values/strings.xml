@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sho Store</string>
+    <string name="e_mail_text">E-mail:</string>
+    <string name="enter_your_email">enter your e-mail</string>
+    <string name="password_text">Password:</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="log_in_button">Log in</string>
+    <string name="create_button">Create</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">WELCOME</string>
+    <string name="description_text">Welcome in our shoe app</string>
+    <string name="welcome_in_our_shoe_app">Welcome in our shoe app</string>
+    <string name="next_button">Next</string>
+</resources>
